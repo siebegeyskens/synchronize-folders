@@ -1,12 +1,4 @@
-2024-02-14 21:06:29,168 INFO test2.txt has been copied
-2024-02-14 21:06:54,627 INFO test2.txt has been copied
-2024-02-14 21:28:25,571 INFO test2.txt has been copied
-2024-02-14 21:28:25,573 INFO test3.txt has been copied
-2024-02-14 21:29:00,622 INFO test2.txt has been copied
-2024-02-14 21:29:15,633 INFO test2.txt has been copied
-2024-02-14 21:29:30,642 INFO test3.txt has been copied
-2024-02-14 21:29:45,651 INFO test1.txt has been copied
-2024-02-14 21:29:55,658 INFO test1.txt has been copied
-2024-02-14 21:30:05,664 INFO test0.txt has been deleted
-2024-02-14 21:36:35,865 INFO test1.txt has been deleted
-2024-02-14 21:37:00,879 INFO test1.txt has been copied
+2024-02-14 22:16:33,561 INFO test1.txt has been deleted
+2024-02-14 22:17:02,114 INFO test2.txt has been copied
+2024-02-14 22:18:42,301 INFO test1.txt has been copied
+2024-02-14 22:18:47,307 INFO test1.txt has been copied
